@@ -1,0 +1,2 @@
+// Supabase public project settings. Publishable/anon keys are intended for browser use; never add a service-role key here.
+window.STUDIO_CONFIG={url:"https://zvvduzjxujlpgklxydpt.supabase.co",anonKey:"sb_publishable_a3ECuL0J84UC6yEpTlB5bQ_QHTqzR1b",storageBucket:"studio-media"};
